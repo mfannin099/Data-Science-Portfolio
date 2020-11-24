@@ -27,7 +27,7 @@ Goal was to determine whether or not the frequency of a company in the news had 
 
 In addition to this, I conducted natural langauge processing on the articles descriptions to see if there was any common langauge used. I used regular expressions to remove unwanted characters and preprocessed the data. I then created a Word2Vec model and made a wordcloud with the most simlar words.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/stocks_1.png)
+![](/images/stocks_1.png)
 
 [Link to Code](https://github.com/mfannin099/data-science-portfolio/tree/main/SI330_final)
 
@@ -38,11 +38,11 @@ The first project during summer 2020, I used data that was found on Kaggle that 
 
 To begin I studied Umich, looking at their wins per season. I took all of the statistics in the dataset and ranked them using pandas rank method. A 5 represents the highest value, and a 1 represents the smallest. The team was so successful in 2018, because they were such a well-rounded team, with no apparent weaknesses. 
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/basketball_1.jpg)
+![](/images/basketball_1.jpg)
 
 I then studied the BIG 10 conference and found that Michigan State wins the most games per season (on average). They are followed by: Purdue, Michigan, Wisconsin, and Maryland. I ranked the columns and averaged the scores and found that Purdues average rank was 3.6 and Michigan State's was 3.13.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/basketball_2.jpg)
+![](/images/basketball_2.jpg)
 
 Lastly, I wanted to find correlation between offensive stats and defensive. I created two seperate dataframes and used .corr(). It appeared that offensive efficency had a higher corrleation to winning than defense did.
 
@@ -55,7 +55,7 @@ This project helped me practice SQL that I learned from coursework in addition t
 
 I used the coinpaprika API to get data, stored it in python lists in order to put it into my SQL database. I created 7 tables in total. After all the data was inputted, I practiced more SQL commands and conducted some simple analysis.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/crypto_1.jpg)
+![](/images/crypto_1.jpg)
 
 [Link to code](https://github.com/mfannin099/summer2020-4)
 
@@ -70,15 +70,15 @@ I cleaned the data; made them lowercase, used regular expressions to remove unwa
 
 I then found the words that were most common and created a line chart showing the frequency.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/nltk_1.jpg)
+![](/images/nltk_1.jpg)
 
 I then used NLTK methods, and then made a word cloud. 
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/nltk_2.jpg)
+![](/images/nltk_2.jpg)
 
 Lastly, I made a Word2Vec model and found the most similar words to some of the most common words that appeared in the text.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/nltk_3.jpg)
+![](/images/nltk_3.jpg)
 
 [Link to code](https://github.com/mfannin099/project2020-6)
 
@@ -95,15 +95,15 @@ This is my first time using R, I learned it from: reading articles, documentatio
 
 I imported a dataset from Kaggle. Then, made some basic plots to visualize the data, and find correlation between columns to begin. 
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/tesla_1.jpg)
+![](/images/tesla_1.jpg)
 
 I made a linear regression model based on the opening and closing prices. 
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/tesla_2.jpg)
+![](/images/tesla_2.jpg)
 
 I then calculate a moving average of the closing price. Lastly, made a machine learning model in an attempt to predict its future price.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/tesla_3.jpg)
+![](/images/tesla_3.jpg)
 
 [Link to code](https://github.com/mfannin099/data-science-portfolio/tree/main/tesla_stock_2)
 
@@ -116,11 +116,11 @@ I first gathered data by making calls to the Mashvisor API getting the most popu
 
 What are the best cities to have rental property? To maximize income should property owners rent traditionally or on Airbnb?
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/real_estate_1.jpg)
+![](/images/real_estate_1.jpg)
 
 Made predictions based on linear regression models. Inputting an average occupancy of 50 guests, the model then predicts the average rental income the property will bring in. 
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/real_estate_2.jpg)
+![](/images/real_estate_2.jpg)
 
 **Findings:** The best cities to have rental property in are: Nashville, San Francisco, Boston, and Austin. They have the highest nightly cost, and produce the most passive income per year. 
 
@@ -133,11 +133,11 @@ Made predictions based on linear regression models. Inputting an average occupan
 Tableau_practice: Tableau 
 This project consists of multiple smaller projects. I am taking data from Kaggle, imported it into Tableau in order to make interesting, simple, and insightful visualizations so I can learn from the data. I downloaded the student free trial, coupled with Tableau’s own tutorials and YouTube videos I felt ready to dive in for myself.
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/tableau_1.jpg)
+![](/images/tableau_1.jpg)
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/tableau_2.jpg)
+![](/images/tableau_2.jpg)
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/tableau_3.jpg)
+![](/images/tableau_3.jpg)
 
 [Link to code](https://github.com/mfannin099/summer2020-5)
 
