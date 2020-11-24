@@ -1,11 +1,10 @@
-**Data Science Portfolio**
 
 Showcasing work that I have done for class projects, along with projects done by myself.
 
-**Python:**
+# **Python:**
 
 ---
-SI 206 Final Project: 
+## SI 206 Final Project:
 Worked in a team of three, utilized Yelp’s, Google’s Geocoder, and GeoDB web API’s to gather data. This data was gathered in JSON, and converted into python lists. Then, a six-table database was created with 1,000 rows. Lastly, Visualizations were created using Matplotlib.
 
 Yelp API: businesses name, city, rating, address, phone number, total reviews, price range, and category.
@@ -22,7 +21,7 @@ Data was gathered for the most populated 100 US cities, along with top rated res
 
 ---
 
-SI 330 Final Project: 
+## SI 330 Final Project: 
 Goal was to determine whether or not the frequency of a company in the news had any impact on the company's stock price. Data was collected from two web API's: Alpha Vantage and News API. Data recieved from News API wasn't sufficient in answering research question because you can only import a small number of news articles. 
 
 In addition to this, I conducted natural langauge processing on the articles descriptions to see if there was any common langauge used. I used regular expressions to remove unwanted characters and preprocessed the data. I then created a Word2Vec model and made a wordcloud with the most simlar words.
@@ -33,7 +32,7 @@ In addition to this, I conducted natural langauge processing on the articles des
 
 ---
 
-College_basketball_1: Pandas 
+## College_basketball_1: Pandas 
 The first project during summer 2020, I used data that was found on Kaggle that had statistics about different teams from 2015- 2019. I used pandas to analyze why Umich was so successful in 2018, which team is the most successful in the BIG-10, which Power 5 conference wins the most, and whether offensive or defensive efficiency correlates to winning games.
 
 To begin I studied Umich, looking at their wins per season. I took all of the statistics in the dataset and ranked them using pandas rank method. A 5 represents the highest value, and a 1 represents the smallest. The team was so successful in 2018, because they were such a well-rounded team, with no apparent weaknesses. 
@@ -50,7 +49,7 @@ Lastly, I wanted to find correlation between offensive stats and defensive. I cr
 
 ---
 
-Crypto_4: SQL 
+## Crypto_4: SQL 
 This project helped me practice SQL that I learned from coursework in addition to what was covered in an Introduction to SQL, on Coursera. 
 
 I used the coinpaprika API to get data, stored it in python lists in order to put it into my SQL database. I created 7 tables in total. After all the data was inputted, I practiced more SQL commands and conducted some simple analysis.
@@ -61,7 +60,7 @@ I used the coinpaprika API to get data, stored it in python lists in order to pu
 
 ---
 
-Sentiment_analysis_6: nltk
+## Sentiment_analysis_6: nltk
 I gathered data from the Office API, I took first name, last name, and the quote to form a data frame. Following the same process getting the title of an episode and description in another data frame. 
 
 To process the text data I concatenated the two dataframes and the text was put into a list.
@@ -88,9 +87,9 @@ hw5 - Kaggle titanic competition, used machine learning to predict survivabilty
 
 ---
 
-**R:**
+#**R:**
 
-tesla_stock_2: R 
+## tesla_stock_2: R 
 This is my first time using R, I learned it from: reading articles, documentation, and watching tutorials. 
 
 I imported a dataset from Kaggle. Then, made some basic plots to visualize the data, and find correlation between columns to begin. 
@@ -109,7 +108,7 @@ I then calculate a moving average of the closing price. Lastly, made a machine l
 
 ---
 
-real_estate_3: R
+## real_estate_3: R
 This project expanded my knowledge in R and helped me become more fluent with syntax. I utilized piping, and more statistical analysis tools that R offers.
 
 I first gathered data by making calls to the Mashvisor API getting the most populated cities in the United States, and created a CSV file to import into RStudio.
@@ -128,9 +127,9 @@ Made predictions based on linear regression models. Inputting an average occupan
 
 ---
 
-**Tableau:**
+# **Tableau:**
 
-Tableau_practice: Tableau 
+## Tableau_practice: Tableau 
 This project consists of multiple smaller projects. I am taking data from Kaggle, imported it into Tableau in order to make interesting, simple, and insightful visualizations so I can learn from the data. I downloaded the student free trial, coupled with Tableau’s own tutorials and YouTube videos I felt ready to dive in for myself.
 
 ![](/images/tableau_1.jpg)
