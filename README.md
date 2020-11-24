@@ -16,7 +16,7 @@ Google Map: Latitude and Longitude
 
 Data was gathered for the most populated 100 US cities, along with top rated restuarants. 
 
-![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/lat_long.png)
+![](/images/lat_long.png)
 
 [Link to code](https://github.com/mfannin099/data-science-portfolio/tree/main/SI206FinalProject)
 
