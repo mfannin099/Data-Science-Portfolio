@@ -5,6 +5,7 @@ Showcasing work that I have done for class projects, along with projects done by
 **Python:**
 
 ---
+SI 206 Final Project: 
 Worked in a team of three, utilized Yelp’s, Google’s Geocoder, and GeoDB web API’s to gather data. This data was gathered in JSON, and converted into python lists. Then, a six-table database was created with 1,000 rows. Lastly, Visualizations were created using Matplotlib.
 
 Yelp API: businesses name, city, rating, address, phone number, total reviews, price range, and category.
@@ -15,7 +16,7 @@ Google Map: Latitude and Longitude
 
 Data was gathered for the most populated 100 US cities, along with top rated restuarants. 
 
-{{< figure src="/images/lat_long.png" title="" >}}
+![](https://github.com/mfannin099/data-science-portfolio/blob/main/images/lat_long.png)
 
 [Link to code](https://github.com/mfannin099/data-science-portfolio/tree/main/SI206FinalProject)
 
