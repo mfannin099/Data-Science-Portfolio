@@ -87,7 +87,7 @@ hw5 - Kaggle titanic competition, used machine learning to predict survivabilty
 
 ---
 
-#**R:**
+# **R:**
 
 ## tesla_stock_2: R 
 This is my first time using R, I learned it from: reading articles, documentation, and watching tutorials. 
