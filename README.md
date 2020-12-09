@@ -35,7 +35,7 @@ In addition to this, I conducted natural langauge processing on the articles des
 ## SI 370 Final Project: 
 Worked for the Ann Arbor District Library to determine how many points, how players scored points in their Summer Games. The dataset was over 12 million rows and reduced to 4 million when working with data from 2018-2020. Findings and methodologies are dicussed in the report.
 
-![](/images/stocks_1.png)
+![](/images/logo.jpg)
 
 [Link to Code](https://github.com/mfannin099/SI-370-Final)
 
