@@ -32,6 +32,15 @@ In addition to this, I conducted natural langauge processing on the articles des
 
 ---
 
+## SI 370 Final Project: 
+Worked for the Ann Arbor District Library to determine how many points, how players scored points in their Summer Games. The dataset was over 12 million rows and reduced to 4 million when working with data from 2018-2020. Findings and methodologies are dicussed in the report.
+
+![](/images/stocks_1.png)
+
+[Link to Code](https://github.com/mfannin099/SI-370-Final)
+
+---
+
 ## College_basketball_1: Pandas 
 The first project during summer 2020, I used data that was found on Kaggle that had statistics about different teams from 2015- 2019. I used pandas to analyze why Umich was so successful in 2018, which team is the most successful in the BIG-10, which Power 5 conference wins the most, and whether offensive or defensive efficiency correlates to winning games.
 
