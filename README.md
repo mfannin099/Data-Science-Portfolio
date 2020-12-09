@@ -43,7 +43,7 @@ Worked for the Ann Arbor District Library to determine how many points, how play
 
 ## Machine Learning: Amazon Best Selling Books
 
-Creating and tuning machine learning model to predict prize of books. Dataset was gotten from Kaggle and consisted of 550 rows of the top 50 best selling books from 2009 to 2019.
+Creating and tuning machine learning model to predict price of books. Dataset was gotten from Kaggle and consisted of 550 rows of the top 50 best selling books from 2009 to 2019.
 
 ![](/images/final_predictions.jpg)
 
