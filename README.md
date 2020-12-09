@@ -41,6 +41,14 @@ Worked for the Ann Arbor District Library to determine how many points, how play
 
 ---
 
+## Machine Learning: Amazon Best Selling Books
+
+Creating and tuning machine learning model to predict prize of books. Dataset was gotten from Kaggle and consisted of 550 rows of the top 50 best selling books from 2009 to 2019.
+
+![](/images/final_predictions.jpg)
+
+[Link to Code](https://github.com/mfannin099/machine-learning-bestsellers)
+
 ## College_basketball_1: Pandas 
 The first project during summer 2020, I used data that was found on Kaggle that had statistics about different teams from 2015- 2019. I used pandas to analyze why Umich was so successful in 2018, which team is the most successful in the BIG-10, which Power 5 conference wins the most, and whether offensive or defensive efficiency correlates to winning games.
 
