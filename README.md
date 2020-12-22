@@ -1,6 +1,4 @@
 
-Showcasing work that I have done for class projects, along with projects done by myself.
-
 # **Python:**
 
 ---
