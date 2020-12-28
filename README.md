@@ -51,7 +51,7 @@ Creating and tuning machine learning model to predict price of books. Dataset wa
 
 ## Machine Learning: NBA Players Clusters
 
-Creating and tuning machine learning model to create clustes for NBA players based on the 2019 season. Dataset was gotten from Kaggle and consisted of 11,145 rows of stats from each NBA player from 1996 to 2019.
+Creating a machine learning model to create clustes for NBA players based on the 2019 season. Number of clusters was found by using the elbow method. Dataset was gotten from Kaggle and consisted of 11,145 rows of stats from each NBA player from 1996 to 2019.
 
 ![](/images/figure2.jpg)
 
