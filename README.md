@@ -47,6 +47,18 @@ Creating and tuning machine learning model to predict price of books. Dataset wa
 
 [Link to Code](https://github.com/mfannin099/machine-learning-bestsellers)
 
+---
+
+## Machine Learning: NBA Players Clusters
+
+Creating and tuning machine learning model to create clustes for NBA players based on the 2019 season. Dataset was gotten from Kaggle and consisted of 11,145 rows of stats from each NBA player from 1996 to 2019.
+
+![](/images/figure2.jpg)
+
+[Link to Code](https://github.com/mfannin099/basketball_clustering-8)
+
+---
+
 ## College_basketball_1: Pandas 
 The first project during summer 2020, I used data that was found on Kaggle that had statistics about different teams from 2015- 2019. I used pandas to analyze why Umich was so successful in 2018, which team is the most successful in the BIG-10, which Power 5 conference wins the most, and whether offensive or defensive efficiency correlates to winning games.
 
